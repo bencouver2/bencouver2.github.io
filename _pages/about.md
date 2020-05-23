@@ -16,7 +16,18 @@ Previous:
  - Data Scientist, TrustScience Inc.
  - Visiting Professor, [ITAM](http://www.itam.mx), Mexico City.
  - Data scientist, Honeywell, Mexico City.
- - Devops/High Performance Computing specialist at [ANSYS](http://www.ansys.com), in the outskirts of Pittsburgh, Pennsylvania. worked on the ANSYS Enterprise Cloud project to perform Elastic HPC and data intensive workflows, mostly aimed to leverage ANSYS Engineering Simulation Applications. My skills include linux, machine learning and distributed/parallel computing to data analytics and mathematical modeling. My interests span to distributed file systems, clouds and virtualization.I am passionate about scalable data-intensive techniques to analyze large datasets, such as statistical methods, sampling, statistical inference, etc. I want to apply my experience to cloud computing, fraud detection and big data mining. I am a big fan of the Openstack ecosystem, virtualization technologies and python.
+ - Devops/High Performance Computing specialist at [ANSYS](http://www.ansys.com), in the outskirts of Pittsburgh, Pennsylvania. worked on the ANSYS Enterprise Cloud project to perform Elastic HPC and data intensive workflows, mostly aimed to leverage ANSYS Engineering Simulation Applications. 
+
+Interests and Experience
+======
+
+- Scientific computing/workflows, hypothesis testing, Explainability, model validation, data centric architectures, distributed machine/deep learning. 
+- Linux, machine/deep learning, distributed/parallel computing, data analytics, mathematical modeling. 
+- Distributed file systems, virtualization, containers, python, R, octave, GPUs, AI accelerators. 
+- Passionate about scalable data-intensive techniques, large datasets, statistical inference, Data model validation, Population drift, model fairness and Interpretability, Non-parametric tests.
+
+
+
 
 Education
 ======
