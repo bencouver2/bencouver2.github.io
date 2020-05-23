@@ -1,12 +1,35 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Benjamin Gutierrez: nomad, physicist, data scientist, linux geek"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+Current: Scientific Computing Engineer at Argonne. About me
+Previous:
+ - Data Scientist, TrustScience Inc.
+ - Visiting Professor, ITAM, Mexico City.
+ - Data scientist, Honeywell, Mexico City.
+
+Devops/High Performance Computing specialist at ANSYS Inc. in the outskirts of Pittsburgh, Pennsylvania. worked on the ANSYS Enterprise Cloud project to perform Elastic HPC and data intensive workflows, mostly aimed to leverage ANSYS Engineering Simulation Applications. My skills include linux, machine learning and distributed/parallel computing to data analytics and mathematical modeling. My interests span to distributed file systems, clouds and virtualization.I am passionate about scalable data-intensive techniques to analyze large datasets, such as statistical methods, sampling, statistical inference, etc. I want to apply my experience to cloud computing, fraud detection and big data mining. I am a big fan of the Openstack ecosystem, virtualization technologies and python.
+
+I received my B.Sc. in Physics in 2002 from the National University of Mexico (UNAM). I was awarded a Ph.D in Computational Physics at the University of British Columbia, in Vancouver, Canada. My research and skills have benefited from several internships since my undergraduate years (CERN, Summer Program 1996), more recently at the Max-Planck Institute for Gravitational Physics, in Golm, Germany (2008) and The Perimeter Institute for Theoretical Physics (2010) in Waterloo, Canada. Before starting my doctoral studies I worked as a Linux server specialist at my home university's Institute for Mathematical Research, and later at Hewlett Packard Mexico..
+
+After Argonne I collaborated with the Clear Linux Project as a Linux integration and data engineer at Intel's Open Source Technology Center in Guadalajara, Mexico.
+
+Soliton non-linear dynamics my passion
+======
+
+My PhD. research project consisted in the study of dynamics of certain type of solutions to the equations of motion of non-linear classical field theories. The scattering of solitons and their time-dependent evolution in a non-integrable classical or quantum field theory remains an intractable and difficult problem. This is where numerical methods offer an effective tool to deal with the complexity of the equations, which require sophisticated algorithms and extensive runtime and storage resources. Independently of their physical applications, the non-linear nature of the solutions provides a rich phenomenology, interesting in its own right.
+These problems are expressed as hyperbolic time-dependent non-linear partial differential equations (PDEs) in 2 and 3 spatial dimensions, supplemented by suitable  boundary conditions. To solve them, we apply finite difference techniques and iterative relaxation methods such as Newton-Gauss-Seidel. However, the physical domain spans over several time and space scales. The appropriate optimization of computational resources is achived by means of parallel adaptive mesh refinement (PAMR) techniques. They implement a hierarchy of meshes with different resolutions, concentrating resources on areas with high phenomenology using a modified Berger-Oliger algorithm.
+
+My training in parallel programming and hyperbolic PDEs allowed me to gain experience in another area I find deeply exciting: Computational hydrodinamics. I am interested in problems involving astrophysical (maybe relativistic) fluids, reactive-transport models, Euler equations and shallow water equations to model tsunamis. Some of this equations develop shocks, which require the use of high resolution shock capture methods. I am familiar with some finite-volume techniques coupled to iterative linear solvers and fully implicit schemes. bencouver gmail Sat Sep 5 18:40:27 PDT 2015 
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
