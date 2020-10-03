@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Benjamin Gutierrez: nomad, physicist, data scientist, linux geek"
+title: "Benjamin Gutierrez: Physicist, data scientist, linux geek"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
