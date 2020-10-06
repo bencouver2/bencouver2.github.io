@@ -44,9 +44,7 @@ These problems are expressed as hyperbolic time-dependent non-linear partial dif
 
 My training in parallel programming and hyperbolic PDEs allowed me to gain experience in another area I find deeply exciting: Computational hydrodinamics. I am interested in problems involving astrophysical (maybe relativistic) fluids, reactive-transport models, Euler equations and shallow water equations to model tsunamis. Some of this equations develop shocks, which require the use of high resolution shock capture methods. I am familiar with some finite-volume techniques coupled to iterative linear solvers and fully implicit schemes. 
 
-<p align="center">
-[![Q-Ball](https://img.youtube.com/vi/kOWGQkMA-ng/0.jpg)](https://youtu.be/kOWGQkMA-ng "Q-Ball collision right-angle scattering v=0.6")
-</p>
+[![Q-Ball](https://img.youtube.com/vi/kOWGQkMA-ng/0.jpg#center)](https://youtu.be/kOWGQkMA-ng "Q-Ball collision right-angle scattering v=0.6")
 
 
 
