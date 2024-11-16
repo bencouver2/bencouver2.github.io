@@ -11,10 +11,10 @@ redirect_from:
 Brief bio
 ======
 
-Current: Scientific Computing Engineer at Argonne National Lab. About me
+Current: Scientific Computing Specialist  at Argonne National Lab. About me
 Previous:
  - Data Scientist, TrustScience Inc.
- - Visiting Professor, [ITAM](http://www.itam.mx), Mexico City.
+ - Adjunct Visiting Professor, [ITAM](http://www.itam.mx), Mexico City.
  - Data scientist, Honeywell, Mexico City.
  - Devops/High Performance Computing specialist at [ANSYS](http://www.ansys.com), in the outskirts of Pittsburgh, Pennsylvania. worked on the ANSYS Enterprise Cloud project to perform Elastic HPC and data intensive workflows, mostly aimed to leverage ANSYS Engineering Simulation Applications. 
 
@@ -36,7 +36,7 @@ I received my B.Sc. in Physics in 2002 from the National University of Mexico (U
 
 After Argonne I collaborated with the Clear Linux Project as a Linux integration and data engineer at Intel's Open Source Technology Center in Guadalajara, Mexico.
 
-Soliton non-linear dynamics my passion
+Soliton non-linear dynamics 
 ======
 
 My [PhD. research](http://circle.ubc.ca/handle/2429/44527) project consisted in the study of dynamics of certain type of solutions to the equations of motion of non-linear classical field theories. The scattering of solitons and their time-dependent evolution in a non-integrable classical or quantum field theory remains an intractable and difficult problem. This is where numerical methods offer an effective tool to deal with the complexity of the equations, which require sophisticated algorithms and extensive runtime and storage resources. Independently of their physical applications, the non-linear nature of the solutions provides a rich phenomenology, interesting in its own right.
