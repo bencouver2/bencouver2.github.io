@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Brief bio
+Brief bio 2024
 ======
 
 Current: Scientific Computing Specialist  at Argonne National Lab. About me
